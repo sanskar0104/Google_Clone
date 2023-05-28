@@ -1,0 +1,9 @@
+body {
+  overscroll-behavior: none;
+}
+
+body {
+  text-align: center;
+  background: #ffffff;
+  height: 200vh;
+}
